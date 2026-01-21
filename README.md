@@ -4,7 +4,7 @@ This project is designed to be executed using **Google Colab** to simplify setup
 ### Step 1 — Open Google Colab
 1. Go to: https://colab.research.google.com
 2. Click **Upload**
-3. Upload the provided `.ipynb` notebook file
+3. Upload `Oral_Cancer_Detection_Final.ipynb`
 
 ### Step 2 — Run the Notebook
 
